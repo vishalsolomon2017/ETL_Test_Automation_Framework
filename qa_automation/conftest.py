@@ -7,7 +7,7 @@ from pyspark.sql import SparkSession
 # Actual Excel file paths
 
 SOURCE_PATH = "qa_automation/Tables/Source_table.xlsx"
-TARGET_PATH = "qa_automation/Tables/Target_table_1.xlsx"
+TARGET_PATH = "qa_automation/Tables/Source_table.xlsx"
 
 
 # Create Spark session
